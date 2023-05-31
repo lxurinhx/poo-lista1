@@ -1,0 +1,12 @@
+H:\POO\primeira etapa\Lista02Ex01\Lista02Ex01\bin\Debug\Lista02Ex01.exe.config
+H:\POO\primeira etapa\Lista02Ex01\Lista02Ex01\bin\Debug\Lista02Ex01.exe
+H:\POO\primeira etapa\Lista02Ex01\Lista02Ex01\bin\Debug\Lista02Ex01.pdb
+H:\POO\primeira etapa\Lista02Ex01\Lista02Ex01\obj\Debug\Lista02Ex01.csproj.AssemblyReference.cache
+H:\POO\primeira etapa\Lista02Ex01\Lista02Ex01\obj\Debug\Lista02Ex01.csproj.SuggestedBindingRedirects.cache
+H:\POO\primeira etapa\Lista02Ex01\Lista02Ex01\obj\Debug\Lista02Ex01.Form1.resources
+H:\POO\primeira etapa\Lista02Ex01\Lista02Ex01\obj\Debug\Lista02Ex01.Properties.Resources.resources
+H:\POO\primeira etapa\Lista02Ex01\Lista02Ex01\obj\Debug\Lista02Ex01.csproj.GenerateResource.cache
+H:\POO\primeira etapa\Lista02Ex01\Lista02Ex01\obj\Debug\Lista02Ex01.csproj.CoreCompileInputs.cache
+H:\POO\primeira etapa\Lista02Ex01\Lista02Ex01\obj\Debug\Lista02Ex01.exe
+H:\POO\primeira etapa\Lista02Ex01\Lista02Ex01\obj\Debug\Lista02Ex01.pdb
+H:\POO\primeira etapa\Lista02Ex01\Lista02Ex01\obj\Debug\Lista02Ex01.Form2.resources

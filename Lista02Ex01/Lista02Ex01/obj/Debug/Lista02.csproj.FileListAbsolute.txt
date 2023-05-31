@@ -1,0 +1,36 @@
+H:\POO\primeira etapa\Lista02Ex01\Lista02Ex01\obj\Debug\Lista02.csproj.AssemblyReference.cache
+H:\POO\primeira etapa\Lista02Ex01\Lista02Ex01\obj\Debug\Lista02.csproj.SuggestedBindingRedirects.cache
+H:\POO\primeira etapa\Lista02Ex01\Lista02Ex01\obj\Debug\Lista02Ex01.Form1.resources
+H:\POO\primeira etapa\Lista02Ex01\Lista02Ex01\obj\Debug\Lista02Ex01.Form2.resources
+H:\POO\primeira etapa\Lista02Ex01\Lista02Ex01\obj\Debug\Lista02Ex01.Form3.resources
+H:\POO\primeira etapa\Lista02Ex01\Lista02Ex01\obj\Debug\Lista02Ex01.Properties.Resources.resources
+H:\POO\primeira etapa\Lista02Ex01\Lista02Ex01\obj\Debug\Lista02.csproj.GenerateResource.cache
+H:\POO\primeira etapa\Lista02Ex01\Lista02Ex01\obj\Debug\Lista02.csproj.CoreCompileInputs.cache
+H:\POO\primeira etapa\Lista02Ex01\Lista02Ex01\obj\Debug\Lista02Ex01.Form4.resources
+H:\POO\primeira etapa\Lista02Ex01\Lista02Ex01\bin\Debug\or.exe.config
+H:\POO\primeira etapa\Lista02Ex01\Lista02Ex01\bin\Debug\or.exe
+H:\POO\primeira etapa\Lista02Ex01\Lista02Ex01\bin\Debug\or.pdb
+H:\POO\primeira etapa\Lista02Ex01\Lista02Ex01\obj\Debug\Lista02Ex01.Form5.resources
+H:\POO\primeira etapa\Lista02Ex01\Lista02Ex01\obj\Debug\or.exe
+H:\POO\primeira etapa\Lista02Ex01\Lista02Ex01\obj\Debug\or.pdb
+H:\POO\primeira etapa\Lista02Ex01\Lista02Ex01\obj\Debug\Lista02Ex01.Form6.resources
+H:\POO\primeira etapa\Lista02Ex01\Lista02Ex01\obj\Debug\Lista02Ex01.Form7.resources
+D:\escola e trabalho\poo\Lista02Ex01\Lista02Ex01\bin\Debug\or.exe.config
+D:\escola e trabalho\poo\Lista02Ex01\Lista02Ex01\bin\Debug\or.exe
+D:\escola e trabalho\poo\Lista02Ex01\Lista02Ex01\bin\Debug\or.pdb
+D:\escola e trabalho\poo\Lista02Ex01\Lista02Ex01\obj\Debug\Lista02.csproj.AssemblyReference.cache
+D:\escola e trabalho\poo\Lista02Ex01\Lista02Ex01\obj\Debug\Lista02.csproj.SuggestedBindingRedirects.cache
+D:\escola e trabalho\poo\Lista02Ex01\Lista02Ex01\obj\Debug\Lista02Ex01.Form1.resources
+D:\escola e trabalho\poo\Lista02Ex01\Lista02Ex01\obj\Debug\Lista02Ex01.Form2.resources
+D:\escola e trabalho\poo\Lista02Ex01\Lista02Ex01\obj\Debug\Lista02Ex01.Form3.resources
+D:\escola e trabalho\poo\Lista02Ex01\Lista02Ex01\obj\Debug\Lista02Ex01.Form4.resources
+D:\escola e trabalho\poo\Lista02Ex01\Lista02Ex01\obj\Debug\Lista02Ex01.Form5.resources
+D:\escola e trabalho\poo\Lista02Ex01\Lista02Ex01\obj\Debug\Lista02Ex01.Form6.resources
+D:\escola e trabalho\poo\Lista02Ex01\Lista02Ex01\obj\Debug\Lista02Ex01.Form7.resources
+D:\escola e trabalho\poo\Lista02Ex01\Lista02Ex01\obj\Debug\Lista02Ex01.Properties.Resources.resources
+D:\escola e trabalho\poo\Lista02Ex01\Lista02Ex01\obj\Debug\Lista02.csproj.GenerateResource.cache
+D:\escola e trabalho\poo\Lista02Ex01\Lista02Ex01\obj\Debug\Lista02.csproj.CoreCompileInputs.cache
+D:\escola e trabalho\poo\Lista02Ex01\Lista02Ex01\obj\Debug\or.exe
+D:\escola e trabalho\poo\Lista02Ex01\Lista02Ex01\obj\Debug\or.pdb
+D:\escola e trabalho\poo\Lista02Ex01\Lista02Ex01\obj\Debug\Lista02Ex01.Form8.resources
+D:\escola e trabalho\poo\Lista02Ex01\Lista02Ex01\obj\Debug\Lista02Ex01.Form9.resources
